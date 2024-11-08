@@ -1,3 +1,6 @@
+<img alt="Night Coding" src="https://i.pinimg.com/originals/77/ca/a3/77caa32884d735d439ade45ba37feaf2.gif" width='40' align="left"/>
+
+
 # 🎸 Luis Monasterios
 
 **`Digital Craftsman (Developer/Systems Engineer/Musician/GymGoer)`**
@@ -9,7 +12,7 @@ I also like to do other things like:
 💪&nbsp;and working out!
 
 ---
-<img alt="Night Coding" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" align="right"/>
+
 ### 🛠 &nbsp;Tech Stack
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)&nbsp;
 ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
