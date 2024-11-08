@@ -42,7 +42,7 @@ I also like to do other things like:
 ### 📊 Stats
 
 ![Luis's GitHub stats](https://github-readme-stats.vercel.app/api?username=watchtheblind&show_icons=true&theme=gruvbox)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=watchtheblind&show_icons=true&theme=tokyonight)](https://github.com/watchtheblind/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=watchtheblind&show_icons=true&theme=synthwave)](https://github.com/watchtheblind/github-readme-stats)
 <!-- ![GitHub Streak](https://streak-stats.demolab.com?user=ForrestKnight&theme=gruvbox&border_radius=4.5) -->
 
 #
