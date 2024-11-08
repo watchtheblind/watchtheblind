@@ -1,4 +1,4 @@
-<img alt="Night Coding" src="https://i.pinimg.com/originals/77/ca/a3/77caa32884d735d439ade45ba37feaf2.gif" width='40' align="left"/>
+<img alt="Night Coding" src="https://i.pinimg.com/originals/77/ca/a3/77caa32884d735d439ade45ba37feaf2.gif" align="center"/>
 
 
 # 🎸 Luis Monasterios
@@ -7,9 +7,9 @@
 
 Graduated from Universidad Nacional Experimenta de la Fuerza Armada, I'm an full-stack developer and systems engineer building my version of the digital world one step at a time. All my coding projects are built from the ground up, from planning and designing all the way to solving real-life problems with code. I'm an enthusiast of all related to software engineering too, so i continously try to learn something new in order to make a great, clean, and scalable code for those who need my services. 
 I also like to do other things like:
-📖&nbsp;reading books
-🎸&nbsp;playing my guitar
-💪&nbsp;and working out!
+* 📖&nbsp;reading books
+* 🎸&nbsp;playing my guitar
+* 💪&nbsp;and working out!
 
 ---
 
