@@ -1,9 +1,9 @@
 
 
 
-# 🎸 Luis Monasterios
+# Luis Monasterios
 
-**`Systems engineer. FullStack dev`**
+**`SYSTEMS ENGINEER | FULLSTACK DEV`**
 
 I'm building my version of the digital world one step at a time. All my coding projects are built from the ground up, from planning and designing all the way to solving real-life problems with code. I'm an enthusiast of all related to software engineering too, so i continously try to learn something new in order to make a great, clean, and scalable code for those who need my services. 
 
