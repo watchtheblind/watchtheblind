@@ -37,8 +37,8 @@ I'm building my version of the digital world one step at a time. All my coding p
 
 ### 📊 Stats
 
-![Luis's GitHub stats](https://github-readme-stats.vercel.app/api?username=watchtheblind&show_icons=true&theme=synthwave)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=watchtheblind&show_icons=true&theme=synthwave)](https://github.com/watchtheblind/github-readme-stats)
+![Luis's GitHub stats](https://github-readme-stats.vercel.app/api?username=watchtheblind&show_icons=true&theme=react)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=watchtheblind&show_icons=true&theme=react)](https://github.com/watchtheblind/github-readme-stats)
 <!-- ![GitHub Streak](https://streak-stats.demolab.com?user=ForrestKnight&theme=gruvbox&border_radius=4.5) -->
 
 #
