@@ -36,7 +36,7 @@ I'm building my version of the digital world one step at a time. All my coding p
 
 ### 📊 Stats
 
-  <img src="https://github-readme-stats.vercel.app/api?username=watchtheblind&show_icons=true&theme=react&hide_border=true" height="200" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=watchtheblind&show_icons=true&theme=react&hide_border=true" height="200" />
+  <img src="https://github-readme-stats.vercel.app/api?username=watchtheblind&show_icons=true&theme=react&hide_border=true"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=watchtheblind&show_icons=true&theme=react&hide_border=true"/>
 
 #
