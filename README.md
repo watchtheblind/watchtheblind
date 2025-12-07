@@ -3,9 +3,9 @@
 
 # Luis Monasterios
 
-**`SYSTEMS ENGINEER | DEV | (UPCOMING) DATA ANALYST**
+**`SYSTEMS ENGINEER | DEV | (UPCOMING) DATA ANALYST`**
 
-An IT enthusiast. Coder by hobby, and aspiring to become Data Engineer
+An IT enthusiast. Backend Developer by hobby, aspiring to become Data Engineer
 
 ---
 
