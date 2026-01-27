@@ -1,13 +1,13 @@
 <h1 align="center">Hi 👋, I'm Luis Monasterios</h1>
-<h3 align="center">A passionate Python Developer and Data Analyst from Venezuela</h3>
+<h3 align="center">A passionate Python Developer, Systems Engineer and Data Analyst from Venezuela</h3>
 
 - 🔭 I’m currently working on [Review Boxes Automation program](https://github.com/watchtheblind/CORPOSALUD-CUADROS-REVISION)
 
 - 🌱 I’m currently learning **N8N, Django**
 
-- 👨‍💻 All of my projects are available at [www.sample.com](www.sample.com)
+- 👨‍💻 All of my projects are available at [my portfolio]([www.sample.com](https://portfolio-luis-monasterios-projects.vercel.app/))
 
-- 💬 Ask me about **Pandas, Javascript**
+- 💬 Ask me about **Pandas, Javascript, PowerBI, SQL or Python in general**
 
 - 📫 How to reach me **ljmm2k2@gmail.com**
 
@@ -15,6 +15,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
+  https://www.linkedin.com/in/luis-monasterios-aa369a17b/
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
