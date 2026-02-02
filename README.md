@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Luis Monasterios</h1>
 <h3 align="center">A passionate Python Developer, Systems Engineer and Data Analyst from Venezuela</h3>
 
-- 🔭 I’m currently working on 
+🔭 I’m currently working on the following projects: 
 
 [Review Boxes Automation program](https://github.com/watchtheblind/CORPOSALUD-CUADROS-REVISION)
 
