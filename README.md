@@ -7,7 +7,7 @@
 
 [TXT Boxes Automation Program](https://github.com/watchtheblind/CORPOSALUD-TXT)
 
-- 🌱 I’m currently learning **N8N, Django**
+- 🌱 I’m currently learning **FASTAPI**
 
 - 👨‍💻 All of my projects are available at [my portfolio]([www.sample.com](https://portfolio-luis-monasterios-projects.vercel.app/))
 
