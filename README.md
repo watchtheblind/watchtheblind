@@ -9,7 +9,9 @@
 
 [MEDICAPP - Medical Appointments](https://github.com/watchtheblind/MEDICAPP)
 
-- 🌱 I’m currently learning **FASTAPI**
+[Cesta ticket Automation Script](https://github.com/watchtheblind/CORPOSALUD-CESTA-TICKET)
+
+- 🌱 I’m currently learning SQL, Big Data Analysis, Improving OOP skills**
 
 - 👨‍💻 All of my projects are available at [my portfolio]([www.sample.com](https://portfolio-luis-monasterios-projects.vercel.app/))
 
